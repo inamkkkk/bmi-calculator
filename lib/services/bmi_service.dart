@@ -1,0 +1,1 @@
+// This file is intentionally left blank as the BMI calculation logic is included in the BMIModel for this simplified example.

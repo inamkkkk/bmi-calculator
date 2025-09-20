@@ -1,0 +1,59 @@
+# Flutter/Dart-specific files and directories
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+build/
+android/build/
+ios/DerivedData/
+web/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Miscellaneous files
+*.log
+*.tmp
+
+# Gradle files
+.gradle/
+local.properties
+*.keystore
+
+# Node modules
+node_modules/
+
+# Generated files (example)
+*.g.dart
+*.freezed.dart
+
+# Environment files
+.env
+
+# Ignore all IDE related files for visual studio
+.vs/
+
+# Crash reporting files
+crashlytics/
+
+# Compiled files (example)
+*.apk
+*.ipa
+*.jar
+
+# Documentation files (example)
+docs/
+
+# Code coverage files (example)
+coverage/
+
+#Secrets
+secrets.json
